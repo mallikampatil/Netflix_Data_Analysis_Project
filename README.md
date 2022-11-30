@@ -4,7 +4,7 @@
 Ex: Remove any cases where someone left and did not keep watching
 
 2. Create the pivot table 
-  
+Screenshot 2022-11-29 at 7.10.51 PM.png
 3. Get the correlation coefficient
 Ex: How many people that watched Lost also watched Lorax? 
 
