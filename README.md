@@ -8,7 +8,8 @@ Ex: Remove any cases where someone left and did not keep watching
 ![](https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.10.51%20PM.png)
 
 3. Get the descriptive analysis
-![] (https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.56.55%20PM.png)
+
+![](https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.56.55%20PM.png)
 
 4. Get the correlation coefficient
 Ex: How many people that watched Lost also watched Lorax? 
