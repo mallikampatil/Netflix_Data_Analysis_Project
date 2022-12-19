@@ -21,7 +21,9 @@ Based on this model, should Netflix spend $10,000 on the distribution rights for
 Ans: Yes, since there is a similar correlation, we feel that US is a good proxy for Canada. 
 
 ## Results
-As seen from the results, it is very likely that a user who watches Weeds will also enjoy Mad Men seen from the positive correlation. 
+As seen from the results, it is very likely that a user who watches Lorax will also enjoy Pony seen from the positive correlation. 
+
+It can also be seen from the results that a user that will watch Madmen will also watch 
 
 
 
