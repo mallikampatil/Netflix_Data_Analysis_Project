@@ -1,4 +1,6 @@
 # Netflix Data Challenge
+## Hypothesis
+How likely is it that a user will watch a show if they watch a certain show? 
 
 1. Step 1: CLEAN THE DATA
 Ex: Remove any cases where someone left and did not keep watching
@@ -18,11 +20,8 @@ Ex: How many people that watched Lost also watched Lorax?
 Based on this model, should Netflix spend $10,000 on the distribution rights for Weeds in Canada? 
 Ans: Yes, since there is a similar correlation, we feel that US is a good proxy for Canada. 
 
-## Notes
-Statistics: 
-1. Descriptive Statistics
-2. Inferential Statistics
-3. Predictive Statistics
+## Results
+As seen from the results, it is very likely that a user who watches Weeds will also enjoy Mad Men seen from the positive correlation. 
 
 
 
