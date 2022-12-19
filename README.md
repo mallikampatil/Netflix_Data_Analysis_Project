@@ -1,22 +1,20 @@
 # Netflix Data Challenge
 
-1. Clean the data
+1. Step 1: CLEAN THE DATA
 Ex: Remove any cases where someone left and did not keep watching
 
-2. Create the pivot table 
-
+2. Step 2: CREAETE A PIVOT TABLE
 ![](https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.10.51%20PM.png)
 
-3. Get the descriptive analysis
-
+3. Step 3: DESCRIPTIVE ANALYTICS 
 ![](https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.56.55%20PM.png)
 
-4. Get the correlation coefficient
+4. Step 4: CORELATION COEFFICIENT CALCULATION
 Ex: How many people that watched Lost also watched Lorax? 
 
 ![](https://github.com/mallikampatil/Netflix_Data_Analysis_Project/blob/bbabc3850d20f16bc333ea0cacca74b1b7d7d596/Screenshot%202022-11-29%20at%207.59.39%20PM.png)
 
-5. Interpret the Data
+5. Step 5: INTERPRET THE DATA
 Based on this model, should Netflix spend $10,000 on the distribution rights for Weeds in Canada? 
 Ans: Yes, since there is a similar correlation, we feel that US is a good proxy for Canada. 
 
